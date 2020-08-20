@@ -1,2 +1,2 @@
 # Huddle
-Reto platzi 1
+Desafio Platzi 1
